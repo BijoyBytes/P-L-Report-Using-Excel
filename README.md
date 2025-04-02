@@ -38,7 +38,7 @@ The dataset is stored in `sales_market_report.xlsx` and consists of two sheets:
 A special thanks to **CodeBasis** for providing valuable resources that helped in the creation of this analysis. Their insights into **data analytics and statistical modeling** played a key role in shaping this project. 📚✨  
 
 ---
-📌 **Author:** Bijoy Paul 
+📌 **Author:** Bijoy Paul .
 📆 **Last Updated:** sep 2024 
-💬 **Let’s analyze data with mathematical precision and make informed decisions!** 📊📉📈
+
 
