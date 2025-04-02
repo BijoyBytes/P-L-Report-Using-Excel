@@ -31,13 +31,11 @@ The dataset is stored in `sales_market_report.xlsx` and consists of two sheets:
 📉 Understand **deviations from sales targets** using **percentage error calculations**.  
 📈 Use **regression analysis** to predict future sales based on historical data.  
 
-## 📜 License
-This project is released under the **[MIT License](LICENSE)**. Feel free to use, modify, and contribute! 🚀
 
-## 🤝 Contributing
-Got ideas or improvements? We’d love to hear them! 💡  
-- Open an **issue** to report bugs or suggest enhancements.  
-- Submit a **pull request** with your updates.  
+
+
+## 🙌 Acknowledgments
+A special thanks to **CodeBasis** for providing valuable resources that helped in the creation of this analysis. Their insights into **data analytics and statistical modeling** played a key role in shaping this project. 📚✨  
 
 ---
 📌 **Author:** [Your Name]  
